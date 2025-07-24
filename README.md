@@ -1,6 +1,6 @@
 # Complete Flask Application for AWS ECS Deployment
 
-This project is a production-ready Flask web application, containerized with Docker, and designed for seamless deployment on AWS Elastic Container Service (ECS).
+This project is a production-ready Flask web application, containerized with Docker, and designed for seamless deployment on AWS Elastic Container Service (ECS).I used aws elatic beanstalk to deploy it
 
 ## Features
 - Python Flask backend
